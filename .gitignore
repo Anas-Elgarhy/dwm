@@ -66,3 +66,4 @@ _deps
 
 build/
 dist/
+.direnv/
