@@ -67,3 +67,4 @@ _deps
 build/
 dist/
 .direnv/
+result
